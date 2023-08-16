@@ -1,8 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 .cabecalho {background-color: aqua;color: white; 
     display:flex;
 justify-content: space-around;}
 .cabecalho-imagem{width: 20%;}
-.cabecalho-lista-item{display: inline-block;margin: 0 16px;}
+.cabecalho-lista-item{display: inline-block;margin: 0% 16px;
+}
 
 
 
