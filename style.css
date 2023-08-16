@@ -4,7 +4,7 @@ font-size: 24px;
 }
 .cabecalho {background-color: aqua;color: white; 
     display:flex;
-justify-content: space-around; padding: 0;}
+justify-content: space-around; padding: 0 24px;}
 .cabecalho-imagem{width: 20%;}
 .cabecalho-lista-item{display: inline-block;margin: 0 16px;
     }
