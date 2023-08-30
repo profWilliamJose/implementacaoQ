@@ -5,7 +5,7 @@ font-size: 24px;
 .cabecalho {background-color: rgb(13, 61, 61);color: white; 
     display:flex;
 justify-content: space-around; padding: 2% 24px;}
-.cabecalho-imagem{width: 35%;}
+.cabecalho-imagem{width: 20%;}
 .cabecalho-lista-item{display: inline-block;margin: 0% 16px;
 }
 .imagem-escola {width: 25%;}
