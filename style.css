@@ -12,4 +12,5 @@ justify-content: space-around; padding: 2% 24px;}
 .escola{background-image:linear-gradient(aqua,rgb(216, 13, 13));color: aliceblue;display: flex;}
 
 .escola-conteudo{width:35%;}
-.escola{display:flex;justify-content: center;align-items: center;}
+.escola{display:flex;justify-content: center;align-items: center;padding: 24px 0;}
+.escola-titulo{padding: 24px 0;}
